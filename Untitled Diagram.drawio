@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T09:01:00.645Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" version="15.5.2" etag="WoGSBGHeK2AE0HC0sxg6" type="github"><diagram id="omywLsf2M0Cl-aTQy6GG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-25T08:41:15.994Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="WY3ysmxOg-GEZLFFP6QT" version="15.5.2" type="github">
+  <diagram id="omywLsf2M0Cl-aTQy6GG" name="Page-1">
+    <mxGraphModel dx="1246" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bs8XI1fmSPxQvxZGzCUd-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="bs8XI1fmSPxQvxZGzCUd-1" target="bs8XI1fmSPxQvxZGzCUd-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bs8XI1fmSPxQvxZGzCUd-1" value="&lt;font style=&quot;font-size: 14px&quot;&gt;请求&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bs8XI1fmSPxQvxZGzCUd-12" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="bs8XI1fmSPxQvxZGzCUd-2" target="bs8XI1fmSPxQvxZGzCUd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bs8XI1fmSPxQvxZGzCUd-2" value="是否通知参与者" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="220" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bs8XI1fmSPxQvxZGzCUd-13" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="bs8XI1fmSPxQvxZGzCUd-3" target="bs8XI1fmSPxQvxZGzCUd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bs8XI1fmSPxQvxZGzCUd-3" value="日程是否有其他参与者" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bs8XI1fmSPxQvxZGzCUd-14" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="bs8XI1fmSPxQvxZGzCUd-4" target="bs8XI1fmSPxQvxZGzCUd-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bs8XI1fmSPxQvxZGzCUd-4" value="日程时间、地点是否有变化" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bs8XI1fmSPxQvxZGzCUd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="bs8XI1fmSPxQvxZGzCUd-7" target="bs8XI1fmSPxQvxZGzCUd-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bs8XI1fmSPxQvxZGzCUd-7" value="推送其他日程参与者" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bs8XI1fmSPxQvxZGzCUd-8" value="结束" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="300" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
